@@ -1,0 +1,1 @@
+An input scanner for primitive types, but the in on line 8 is not closed showing a problem. Still runs though!
